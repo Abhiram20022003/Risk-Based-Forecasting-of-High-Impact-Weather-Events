@@ -1,0 +1,11 @@
+Location,Latitude,Longitude,Elevation_m,Slope_deg,Drainage_Density,Forecast_Date,Predicted_Rainfall_mm,Predicted_Discharge_cumecs,Predicted_Water_Level_m,Risk_Score,Risk_Level,Live_Temperature_C,Live_Humidity_%,Live_Rainfall_mm,Live_Wind_Speed,Updated_Rainfall_mm,Updated_Discharge_cumecs,Flood_Risk_Score,Live_Risk_Level
+Vikarabad Upstream,17.338,77.904,620,8.2,1.8,2026-05-30,82.51,134.03,2.09,0.507,Medium,36.23,44,0,10.29,82.51,134.03,0.63613,Medium Risk
+Gandipet,17.383,78.315,545,5.8,2.2,2026-05-30,42.52,78.52,1.57,0.294,Low,36.23,44,0,10.29,42.52,78.52,0.35214,Low Risk
+Himayat Sagar,17.322,78.38,520,4.6,2.5,2026-05-30,20.53,66.56,1.52,0.215,Low,36.23,44,0,10.29,20.53,66.56,0.2508,Low Risk
+Uppal,17.405,78.559,485,2.9,3.1,2026-05-30,66.79,128.96,2.1,0.508,Medium,36.23,44,0,10.29,66.79,128.96,0.6635400000000001,Medium Risk
+Amberpet,17.39,78.516,480,2.4,3.5,2026-05-30,45.49,93.34,1.78,0.4,Low,36.23,44,0,10.29,45.49,93.34,0.49298,Medium Risk
+Chaderghat,17.372,78.488,470,1.6,4.0,2026-05-30,75.35,135.97,2.1,0.585,Medium,36.23,44,0,10.29,75.35,135.97,0.76831,High Risk
+Moosarambagh,17.371,78.532,468,1.8,3.8,2026-05-30,82.22,143.43,2.05,0.612,Medium,36.23,44,0,10.29,82.22,143.43,0.8087700000000001,High Risk
+Nagole,17.371,78.567,462,2.2,3.2,2026-05-30,36.02,74.49,1.64,0.346,Low,36.23,44,0,10.29,36.02,74.49,0.3889500000000001,Low Risk
+Peerzadiguda,17.398,78.61,455,2.5,2.9,2026-05-30,23.57,62.95,1.32,0.281,Low,36.23,44,0,10.29,23.57,62.95,0.29163000000000006,Low Risk
+Ghatkesar Downstream,17.45,78.685,440,3.1,2.4,2026-05-30,111.72,177.43,2.49,0.718,High,36.23,44,0,10.29,111.72,177.43,0.96717,High Risk
